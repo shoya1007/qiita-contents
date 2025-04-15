@@ -4,7 +4,7 @@ tags:
   - DB
   - DBMS
   - DB設計
-private: false
+private: true
 updated_at: '2025-04-15T17:08:15+09:00'
 id: c37c578f1edf932cfd29
 organization_url_name: null
